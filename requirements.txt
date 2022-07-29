@@ -1,1 +1,2 @@
 eth-brownie
+vyper>=0.3.4 # not directly required, pinned by Snyk to avoid a vulnerability
